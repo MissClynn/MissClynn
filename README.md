@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything to help with android security 
 - 📫 How to reach me isnt there a message thing on here?
 - 😄 Pronouns: me
-- ⚡ Fun fact: I am crazy 
+- ⚡ Fun fact: I am crazier
 
 <!---
 MissClynn/MissClynn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
